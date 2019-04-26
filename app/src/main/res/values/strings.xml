@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomDatabaseTask</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_user">Add User</string>
+    <string name="view_user">View User</string>
+
+    <string name="update_user">Update User</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="data_of_user">data of user</string>
+    <string name="delete_user">Delete User</string>
+    <string name="user_id">User Id</string>
+
+</resources>
